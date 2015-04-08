@@ -13,8 +13,8 @@ code_url "https://github.com/jakenherman/zeroclickinfo-spice/blob/master/lib/DDG
 topics "Education";
 category "Citations";
 
-attribution github => ['https://github.com/jakenherman','Jaken Chandler Herman'],
-            email => ['JakenHerman7@Gmail.com','Jaken Chandler Herman'];
+attribution github => ['https://github.com/jakenherman','Jaken Herman'],
+            email => ['JakenHerman7@Gmail.com','Jaken Herman'];
 
 spice to => 'http://api.easybib.com/2.0/rest/cite';
 spice wrap_jsonp_callback => 1;
